@@ -148,7 +148,7 @@ The numbers in the file name indicate the size of the elements and apertures in 
  - Corner_os_plinth_075x075x025x400.dae
  - Corner_os_plinth_100x100x025x400.dae
 
-::::::::::::::::::::::::::::::::::::::::::: ТЕНА С ДВЕРНЫМ ПРОЕМОМ [WALLBLOCK_DOORWAY] :::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::: СТЕНА С ДВЕРНЫМ ПРОЕМОМ [WALLBLOCK_DOORWAY] :::::::::::::::::::::::::::::::::::::::::::
 
 СТЕНА ДВУХСТОРОНЯЯ C ДВЕРНЫМ ПРОЕМОМ БЕЗ ПЛИНТУСА.....................[DOORWAY_BLOCKWALL_DS]+7
  

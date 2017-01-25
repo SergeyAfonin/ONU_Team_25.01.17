@@ -196,21 +196,21 @@ The numbers in the file name indicate the size of the elements and apertures in 
 
 WindowBlock_os_[250x400]_150x124
 
- - WindowBlock_os_[250x400]_150x124x[080]
- - WindowBlock_os_[250x400]_150x124x[090]
- - WindowBlock_os_[250x400]_150x124x[100]
+ - WindowBlock_os_[250x400]_150x124x[080].dae
+ - WindowBlock_os_[250x400]_150x124x[090].dae
+ - WindowBlock_os_[250x400]_150x124x[100].dae
 
 WindowBlock_os_[250x400]_150x143
 
- - WindowBlock_os_[250x400]_150x143[080]
- - WindowBlock_os_[250x400]_150x143[090]
- - WindowBlock_os_[250x400]_150x143[100]
+ - WindowBlock_os_[250x400]_150x143[080].dae
+ - WindowBlock_os_[250x400]_150x143[090].dae
+ - WindowBlock_os_[250x400]_150x143[100].dae
 
 WindowBlock_os_[250x400]_150x181
 
- - WindowBlock_os_[250x400]_150x181x[080]
- - WindowBlock_os_[250x400]_150x181x[090]
- - WindowBlock_os_[250x400]_150x181x[100]
+ - WindowBlock_os_[250x400]_150x181x[080].dae
+ - WindowBlock_os_[250x400]_150x181x[090].dae
+ - WindowBlock_os_[250x400]_150x181x[100].dae
  
 WindowBlock_os_[250x400]_150x200
 

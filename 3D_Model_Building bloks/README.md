@@ -150,7 +150,7 @@ The numbers in the file name indicate the size of the elements and apertures in 
 
 :::::::::::::::::::::::::::::::::::::::::: СТЕНА С ДВЕРНЫМ ПРОЕМОМ [WALLBLOCK_DOORWAY] :::::::::::::::::::::::::::::::::::::::::::
 
-СТЕНА ДВУХСТОРОНЯЯ C ДВЕРНЫМ ПРОЕМОМ БЕЗ ПЛИНТУСА.....................[DOORWAY_BLOCKWALL_DS]+7
+СТЕНА ДВУХСТОРОНЯЯ C ДВЕРНЫМ ПРОЕМОМ БЕЗ ПЛИНТУСА.....................[DOORWAY_BLOCKWALL_DS]
  
  - BlockWall_ds_[200x400x025]_102x220_doorway.dae
  - BlockWall_ds_[300x400x025]_102x220_doorway.dae

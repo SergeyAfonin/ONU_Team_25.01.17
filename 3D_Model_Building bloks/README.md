@@ -797,7 +797,39 @@ WindowBlock_os_plinth_[500x400]_220x200
  
   - Door_os_252x247_T1.dae
   
-  
-  
+:::::::::::::::::::::::::::::::::::::::::: ОКНА [WIDOWS] :::::::::::::::::::::::::::::::::::::::::::
 
-  
+ ОКНА 2 СТВОРКИ ДВУХСТОРОННИЕ.........................................[WINDOW_DS_2 castment]
+ 
+ - Window1_150x124x[2 casement].dae
+ - Window1_150x181x[2 casement].dae
+ - Window2_150x181x[2 casement].dae
+ - Window3_150x181x[2 casement].dae
+ 
+ ОКНА 2 СТВОРКИ С РОЛЕТАМИ ДВУХСТОРОННИЕ..................................[WINDOW_DS_2 castment]
+ 
+ - Window1_150x143x[2 casement_blinds].dae
+ - Window1_150x200x[2 casement_blinds].dae
+ - Window2_150x200x[2 casement_blinds].dae
+ - Window3_150x200x[2 casement_blinds].dae
+ 
+  ОКНА 3 СТВОРКИ ДВУХСТОРОННИЕ.........................................[WINDOW_DS_3 castment]
+ 
+ - Window1_220x124x[3 casement].dae
+ - Window1_220x181x[3 casement].dae
+ - Window2_220x124x[3 casement].dae
+ - Window2_220x181x[3 casement].dae
+ - Window3_220x181x[3 casement].dae
+ - Window4_220x181x[3 casement].dae
+ 
+ ОКНА 3 СТВОРКИ С РОЛЕТАМИ ДВУХСТОРОННИЕ..................................[WINDOW_DS_3 castment]
+ 
+ - Window1_220x143x[3 casement_blinds].dae
+ - Window1_220x200x[3 casement_blinds].dae
+ - Window2_220x143x[3 casement_blinds].dae
+ - Window2_220x200x[3 casement_blinds].dae
+ - Window3_220x200x[3 casement_blinds].dae
+ - Window4_220x200x[3 casement_blinds].dae
+ 
+ 
+ 

@@ -831,5 +831,34 @@ WindowBlock_os_plinth_[500x400]_220x200
  - Window3_ds_220x200x[3 casement_blinds].dae
  - Window4_ds_220x200x[3 casement_blinds].dae
  
+  ОКНА 2 СТВОРКИ ОДНОСТОРОННИЕ.........................................[WINDOW_OS_2 casment]
  
+ - Window1_os_150x124x[2 casement].dae
+ - Window1_os_150x181x[2 casement].dae
+ - Window2_os_150x181x[2 casement].dae
+ - Window3_os_150x181x[2 casement].dae
  
+ ОКНА 2 СТВОРКИ С РОЛЕТАМИ ОДНОСТОРОННИЕ..................................[WINDOW_OS_2 casment]
+ 
+ - Window1_os_150x143x[2 casement_blinds].dae
+ - Window1_os_150x200x[2 casement_blinds].dae
+ - Window2_os_150x200x[2 casement_blinds].dae
+ - Window3_os_150x200x[2 casement_blinds].dae
+ 
+  ОКНА 3 СТВОРКИ ОДНОСТОРОННИЕ.........................................[WINDOW_OS_3 casment]
+ 
+ - Window1_os_220x124x[3 casement].dae
+ - Window1_os_220x181x[3 casement].dae
+ - Window2_os_220x124x[3 casement].dae
+ - Window2_os_220x181x[3 casement].dae
+ - Window3_os_220x181x[3 casement].dae
+ - Window4_os_220x181x[3 casement].dae
+ 
+ ОКНА 3 СТВОРКИ С РОЛЕТАМИ ОДНОСТОРОННИЕ..................................[WINDOW_OS_3 casment]
+ 
+ - Window1_os_220x143x[3 casement_blinds].dae
+ - Window1_os_220x200x[3 casement_blinds].dae
+ - Window2_os_220x143x[3 casement_blinds].dae
+ - Window2_os_220x200x[3 casement_blinds].dae
+ - Window3_os_220x200x[3 casement_blinds].dae
+ - Window4_os_220x200x[3 casement_blinds].dae

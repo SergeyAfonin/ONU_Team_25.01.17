@@ -10,3 +10,6 @@
 
 13.02.17 - 19.02.17 Visualization of the PCR protocol with adaptation in the working scene. (https://youtu.be/trRA_DKcnjg)
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/19.02.17.png)
+
+19.02.17 - 25.02.17 Colored lights of virtual elements. The object to interact with is flashing green. (https://youtu.be/er1csJM-xyw)
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/25.02.17.jpg)

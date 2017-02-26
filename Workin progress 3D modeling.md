@@ -4,4 +4,6 @@
 ![Image alt]  (https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/Corridor,glass%20door%20and%20window%20models.jpg?raw=true)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/Door,%20Electronic%20key%20lock,%20Switches,%20Electrical%20board.jpg?raw=true)
 *13.02.2017-14.02.2017 Import common corridor to Unity (setup, optimization).
-*16.02.2017-26.02.2017 Graphics configuration and optimization Laboratory corridor asset (beta) (https://github.com/EMICVL/ONU.OD.UA-Workspace/tree/master/LaboratoryCorridorAsset)
+
+*16.02.2017-26.02.2017 Graphics configuration and optimization Laboratory corridor asset (beta) 
+(https://github.com/EMICVL/ONU.OD.UA-Workspace/tree/master/LaboratoryCorridorAsset)

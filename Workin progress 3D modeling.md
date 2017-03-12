@@ -8,4 +8,4 @@
 *16.02.2017-26.02.2017 Graphics configuration and optimization Laboratory corridor asset (beta) 
 (https://github.com/EMICVL/ONU.OD.UA-Workspace/tree/master/LaboratoryCorridorAsset)
 
-*27.02.2017-12.03.17 Fixed error. Changed the design of the corridor. A PCR block was added. Added a standard laboratory block with electric boards, power lines and sockets; Ceiling with fire-fighting system; Plumbing.
+*27.02.2017-12.03.17 Fixed error. Changed the design of the corridor. A PCR block was added. Added a standard laboratory block with electric boards, power lines and sockets; Ceiling with fire-fighting system; Plumbing; Automatic door

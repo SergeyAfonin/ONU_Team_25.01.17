@@ -9,3 +9,11 @@
 (https://github.com/EMICVL/ONU.OD.UA-Workspace/tree/master/LaboratoryCorridorAsset)
 
 *27.02.2017-12.03.17 Fixed error. Changed the design of the corridor. A PCR block was added. Added a standard laboratory block with electric boards, power lines and sockets; Ceiling with fire-fighting system; Plumbing; Automatic door
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/LaboratoryCorridor02%20(PCR_block).jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/LaboratoryCorridor01.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory01.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory02.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory03.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory04.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory05.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory06.jpg)

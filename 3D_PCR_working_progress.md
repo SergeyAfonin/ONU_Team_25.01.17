@@ -18,3 +18,6 @@
 26.02.17 - 06.03.17 Transport to the Eppendorf vortex by using the mouse. Setup dialog boxes. Working with text simulation:
 https://youtu.be/da1KmIMjGUw
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/06.03.17.png)
+
+06.03.17 - 13.03.17 Setting up a cycle of actions for adding DNA. https://youtu.be/QZhVKEDNaWs
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/13.03.17.png)

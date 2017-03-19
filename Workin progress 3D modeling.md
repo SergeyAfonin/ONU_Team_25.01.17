@@ -17,3 +17,8 @@
 ![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory04.jpg)
 ![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory05.jpg)
 ![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory06.jpg)
+
+12.03.17 - 19.03.17 Asset standard laboratory room for reference. The expected time of release is 10-14 days.
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratoryUnity01.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratoryUnity02.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratoryUnity03.jpg)

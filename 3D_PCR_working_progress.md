@@ -21,3 +21,6 @@ https://youtu.be/da1KmIMjGUw
 
 06.03.17 - 13.03.17 Setting up a cycle of actions for adding DNA. https://youtu.be/QZhVKEDNaWs
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/13.03.17.png)
+
+13.03.17 - 19.03.17 Final version PCR mix simulation. https://www.youtube.com/watch?v=McVC7SRLW8w
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/19.03.17.png)

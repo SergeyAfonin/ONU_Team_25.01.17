@@ -22,3 +22,6 @@
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratoryUnity01.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratoryUnity02.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratoryUnity03.jpg)
+
+19.03.17 - 27.03.17 Models laboratory equipment
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Balance.jpg)

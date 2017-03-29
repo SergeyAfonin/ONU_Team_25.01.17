@@ -33,3 +33,4 @@
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresGelTray.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresGelTrayStopper.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresPowerSupply.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresGelPerforated.jpg)

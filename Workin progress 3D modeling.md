@@ -17,3 +17,20 @@
 ![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory04.jpg)
 ![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory05.jpg)
 ![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratory06.jpg)
+
+12.03.17 - 19.03.17 Asset standard laboratory room for reference. The expected time of release is 10-14 days.
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratoryUnity01.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratoryUnity02.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/Corridor/StandardLaboratoryUnity03.jpg)
+
+19.03.17 - 27.03.17 Models laboratory equipment: balance and electrophores packadge.
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Balance/Balance.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresBath.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresBuffer.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresCap.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresComb.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresGel.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresGelTray.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresGelTrayStopper.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresPowerSupply.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresGelPerforated.jpg)

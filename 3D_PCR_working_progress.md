@@ -30,3 +30,6 @@ https://youtu.be/da1KmIMjGUw
 
 27.03.17 - 04.04.17 Making a hand in the glove.
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/04%2C04%2C17.jpg)
+
+04.04.17 - 10.04.17 Scripting 
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/10%2C04%2C17.png)

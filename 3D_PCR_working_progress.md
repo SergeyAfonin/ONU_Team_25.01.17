@@ -18,3 +18,21 @@
 26.02.17 - 06.03.17 Transport to the Eppendorf vortex by using the mouse. Setup dialog boxes. Working with text simulation:
 https://youtu.be/da1KmIMjGUw
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/06.03.17.png)
+
+06.03.17 - 13.03.17 Setting up a cycle of actions for adding DNA. https://youtu.be/QZhVKEDNaWs
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/13.03.17.png)
+
+13.03.17 - 19.03.17 Final version PCR mix simulation. https://www.youtube.com/watch?v=McVC7SRLW8w
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/19.03.17.png)
+
+19.03.17 - 27.03.17 Modeling the actions of the hand.
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/27%2C03%2C17.jpg)
+
+27.03.17 - 04.04.17 Making a hand in the glove.
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/04%2C04%2C17.jpg)
+
+04.04.17 - 10.04.17 Scripting 
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/10%2C04%2C17.png)
+
+10.04.17 - 18.04.17 Scripting
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/18.04.17.png)

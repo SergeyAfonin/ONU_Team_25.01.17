@@ -34,3 +34,13 @@
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresGelTrayStopper.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresPowerSupply.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresGelPerforated.jpg)
+27.03.17 - 11.04.17 TransIlluminator Pack
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TransIlluminator_01.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TransIlluminator_02.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TransIlluminator_03.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TransIlluminator_04.jpg)
+![Image alt](https://github.com/EMICVL/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TransIlluminator_05.jpg)
+11.04.2017 - 21.04.2017 Thermal Cycler System model
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_01.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_02.jpg)
+![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_03.jpg)

@@ -59,13 +59,18 @@ https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%
 Make Unity assets:
 
 - LaboratoryBalance.unitypackage
-https://github.com/EMICVL/ONU_Team_25.01.17/compare/master@%7B1493066552%7D...master#diff-3fa04c8a0ec18582463022b097519005
+https://github.com/EMICVL/ONU_Team_25.01.17/blob/55490491b3999204e07d00f0f0ee0da663258e3c/3D_Model_Building%20bloks/LaboratoryEquipment/Balance/LaboratoryBalance.unitypackage
 - ElectrophoresisPack.unitypackage
+https://github.com/EMICVL/ONU_Team_25.01.17/blob/4ff970e3f818cc49592c696b90c9e2adb33abdf6/3D_Model_Building%20bloks/LaboratoryEquipment/Electrophores/ElectrophoresisPack.unitypackage
 - MicroWave.unitypackage
+https://github.com/EMICVL/ONU_Team_25.01.17/blob/4ff970e3f818cc49592c696b90c9e2adb33abdf6/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave.unitypackage
 - ThermoCyclerModel.unitypackage
+
 - TransIlluminatorPackage.unitypackage
+https://github.com/EMICVL/ONU_Team_25.01.17/blob/4ff970e3f818cc49592c696b90c9e2adb33abdf6/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TransIlluminatorPackage.unitypackage
 
 Make video:
+
 - LaboratoryBalance_UnityAsset.mp4
 https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/Balance/LaboratoryBalance_UnityAsset.mp4
 - ElectrophoresisPack_UnityAsset.mp4

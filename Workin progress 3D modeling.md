@@ -59,6 +59,7 @@ https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%
 Make Unity assets:
 
 - LaboratoryBalance.unitypackage
+https://github.com/EMICVL/ONU_Team_25.01.17/compare/master@%7B1493066552%7D...master#diff-3fa04c8a0ec18582463022b097519005
 - ElectrophoresisPack.unitypackage
 - MicroWave.unitypackage
 - ThermoCyclerModel.unitypackage

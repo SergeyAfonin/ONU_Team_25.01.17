@@ -44,9 +44,10 @@
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_01.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_02.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_03.jpg)
-21.04.2017 - 1.04.2017
-Make model:
 
+21.04.2017 - 1.04.2017
+
+Make model:
 - MicroWave
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_01.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_02.jpg)
@@ -54,6 +55,7 @@ Make model:
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_04.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_05.jpg)
 https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave_UnityAsset.mp4
+
 Make Unity assets:
 
 - LaboratoryBalance.unitypackage

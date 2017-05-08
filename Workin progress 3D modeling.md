@@ -45,7 +45,7 @@
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_02.jpg)
 ![Image alt](https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/THermalCyclerSystem_03.jpg)
 
-21.04.2017 - 1.04.2017
+21.04.2017 - 1.05.2017
 
 Make model:
 - MicroWave
@@ -65,7 +65,7 @@ https://github.com/EMICVL/ONU_Team_25.01.17/blob/4ff970e3f818cc49592c696b90c9e2a
 - MicroWave.unitypackage
 https://github.com/EMICVL/ONU_Team_25.01.17/blob/4ff970e3f818cc49592c696b90c9e2adb33abdf6/3D_Model_Building%20bloks/LaboratoryEquipment/MicroWave/MicroWave.unitypackage
 - ThermoCyclerModel.unitypackage
-
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/ThermoCyclerModel.unitypackage
 - TransIlluminatorPackage.unitypackage
 https://github.com/EMICVL/ONU_Team_25.01.17/blob/4ff970e3f818cc49592c696b90c9e2adb33abdf6/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TransIlluminatorPackage.unitypackage
 
@@ -81,3 +81,12 @@ https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%
 https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TermoCycler/TermalCycler_UnityAsset.mp4
 - TranceIlluminator_UnityAsset.mp4
 https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TranceIlluminator_UnityAsset.mp4
+
+2.05.2017 - 8.04.2017
+
+Make Unity Prefabs Laboratory GlassWare:
+
+- Laboratory GlassWare_UnityAsset.mp4
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryGlassWare/LaboratoryGlassWare.mp4
+- Laboratory GlassWare_UnityAsset.unitypackage
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryGlassWare/LaboratoryGlassWare.unitypackage

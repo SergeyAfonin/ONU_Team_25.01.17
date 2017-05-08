@@ -36,3 +36,9 @@ https://youtu.be/da1KmIMjGUw
 
 10.04.17 - 18.04.17 Scripting
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/18.04.17.png)
+
+18.04.17 - 24.04.17 Creation of an amplification scene
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/24.04.17.png)
+
+24.04.17 - 03.05.17 Scripting
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/03%2C05%2C17.png)

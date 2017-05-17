@@ -45,3 +45,6 @@ https://youtu.be/da1KmIMjGUw
 
 03.05.17 - 10.05.17 Scripting
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/10.05.17.png)
+
+10.05.17 - 17.05.17 Scripting
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/17%2C05%2C17.png)

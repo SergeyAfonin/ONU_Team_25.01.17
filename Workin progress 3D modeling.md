@@ -82,7 +82,7 @@ https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%
 - TranceIlluminator_UnityAsset.mp4
 https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/TransIlluminator/TranceIlluminator_UnityAsset.mp4
 
-2.05.2017 - 8.04.2017
+2.05.2017 - 8.05.2017
 
 Make Unity Prefabs Laboratory GlassWare:
 
@@ -90,3 +90,15 @@ Make Unity Prefabs Laboratory GlassWare:
 https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryGlassWare/LaboratoryGlassWare.mp4
 - Laboratory GlassWare_UnityAsset.unitypackage
 https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryGlassWare/LaboratoryGlassWare.unitypackage
+
+8.05.2017 - 24.05.2017
+
+Make Unity Prefabs Laboratory PlasticWare:
+- Laboratory PlasticWare.mp4
+https:/https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryPlasticWare/LaboratoryPlasticWare.mp4
+
+- Laboratory PlasticWare.unitypackage
+https://github.com/SergeyAfonin/ONU_Team_25.01.17/blob/master/3D_Model_Building%20bloks/LaboratoryEquipment/LaboratoryPlasticWare/LaboratoryPlasticWare.unitypackage
+
+
+

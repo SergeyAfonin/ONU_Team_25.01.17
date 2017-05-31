@@ -51,3 +51,8 @@ https://youtu.be/da1KmIMjGUw
 
 17.05.17 - 24.05.17 Scripting
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/24.05.17.jpg)
+
+24.05.17 - 31.05.17 Modeling the Error
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/31.05.17_Modeling%20the%20Error_00.png)
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/31.05.17_Modeling%20the%20Error_01.png)
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/31.05.17_Modeling%20the%20Error_02.png)

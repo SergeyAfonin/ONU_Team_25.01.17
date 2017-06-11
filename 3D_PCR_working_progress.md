@@ -57,6 +57,9 @@ https://youtu.be/da1KmIMjGUw
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/31.05.17_Modeling%20the%20Error_01.png)
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/31.05.17_Modeling%20the%20Error_02.png)
 
-31.05.17 - 04.16.17 
+31.05.17 - 04.06.17 
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/04%2C06%2C17_1.png)
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/04%2C06%2C17_2.png)
+
+04.06.17 - 11.06.17 Continuation of the creation of a system of errors.
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/11.06.17.png)

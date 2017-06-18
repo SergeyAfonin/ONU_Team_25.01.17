@@ -63,3 +63,6 @@ https://youtu.be/da1KmIMjGUw
 
 04.06.17 - 11.06.17 Continuation of the creation of a system of errors.
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/11.06.17.png)
+
+11.06.17 - 18.06.17 Scripting system errors
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/18%2C06%2C17.png)

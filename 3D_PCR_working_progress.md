@@ -69,3 +69,6 @@ https://youtu.be/da1KmIMjGUw
 
 18.06.17 - 29.06.17 PCR protocol and error simulation
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/29.06.17.png)
+
+29.06.17 - 05.07.17 Scripting_test 
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/05%2C07%2C17.png)

@@ -75,3 +75,6 @@ https://youtu.be/da1KmIMjGUw
 
 05.07.17 - 11.07.17 Scripting_PCR_silmulation
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/11%2C07%2C17.png)
+
+12.07.17 Video PCR test errors
+- https://www.youtube.com/watch?v=VlS1HZbsfxo&feature=youtu.be

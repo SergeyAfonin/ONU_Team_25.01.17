@@ -81,3 +81,6 @@ https://youtu.be/da1KmIMjGUw
 
 11.07.17 - 19.07.17 Modeling DNA amplification sistem
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/19%2C07%2C17.png)
+
+19.07.17 - 30.07.17 Modeling menu termociclado
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/Modeling_menu_termociclador.jpg)

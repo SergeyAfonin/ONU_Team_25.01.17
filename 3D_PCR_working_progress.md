@@ -84,3 +84,6 @@ https://youtu.be/da1KmIMjGUw
 
 19.07.17 - 30.07.17 Modeling menu termociclado
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/Modeling_menu_termociclador.jpg)
+
+30.07.17 - 10.08.17 Simulation of PCR process
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/10.08.17.png)

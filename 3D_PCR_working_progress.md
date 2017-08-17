@@ -87,3 +87,6 @@ https://youtu.be/da1KmIMjGUw
 
 30.07.17 - 10.08.17 Simulation of PCR process
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/10.08.17.png)
+
+10.08.17 - 17.08.17 The process of setting the thermal cycler.
+- https://youtu.be/EQwnfkgH2XA

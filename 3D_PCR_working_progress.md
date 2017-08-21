@@ -90,3 +90,6 @@ https://youtu.be/da1KmIMjGUw
 
 10.08.17 - 17.08.17 The process of setting the thermal cycler.
 - https://youtu.be/EQwnfkgH2XA
+
+17.08.17 - 22.08.17 Creation of a scene with the choice of protocol for conducting PCR.
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/22.08.17.jpg)

@@ -17,3 +17,7 @@ ______________________________
 - PCR_script.PDF –  Full PCR protocol instruction/script/text from DNA isolation through PCR to results detection.
 - PCR_script_description_final_v1.PDF –  Full PCR script (table) with time shots, pictures and comments.
 
+_______________________________
+
+# Virtual laboratory video:
+https://drive.google.com/file/d/1H4vu13nKNMkj2_TF4_8e7T6uCq_fObQC/view

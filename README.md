@@ -22,4 +22,4 @@ ______________________________
 _______________________________
 
 # Virtual laboratory video:
-https://drive.google.com/file/d/1H4vu13nKNMkj2_TF4_8e7T6uCq_fObQC/view
+- [Overview of the virtual laboratory with simulations](https://www.youtube.com/watch?v=Len1WX-vDy8&t=704s)

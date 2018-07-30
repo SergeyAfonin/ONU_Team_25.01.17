@@ -4,7 +4,7 @@ _________________________
 
 - [PCR mixture preparation](https://www.youtube.com/watch?v=7jf_zNvK6Yw&t=3s)
 - [Demo 3D simulation](https://youtu.be/c8QSCXBFZF0)
-- [PCR amplification](https://youtu.be/Tnu6HAYxqlY)
+
 
 ______________________________
 

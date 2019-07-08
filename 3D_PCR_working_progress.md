@@ -42,3 +42,57 @@ https://youtu.be/da1KmIMjGUw
 
 24.04.17 - 03.05.17 Scripting
 ![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/03%2C05%2C17.png)
+
+03.05.17 - 10.05.17 Scripting
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/10.05.17.png)
+
+10.05.17 - 17.05.17 Scripting
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/17%2C05%2C17.png)
+
+17.05.17 - 24.05.17 Scripting
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/24.05.17.jpg)
+
+24.05.17 - 31.05.17 Modeling the Error
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/31.05.17_Modeling%20the%20Error_00.png)
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/31.05.17_Modeling%20the%20Error_01.png)
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/31.05.17_Modeling%20the%20Error_02.png)
+
+31.05.17 - 04.06.17 
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/04%2C06%2C17_1.png)
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/04%2C06%2C17_2.png)
+
+04.06.17 - 11.06.17 Continuation of the creation of a system of errors.
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/11.06.17.png)
+
+11.06.17 - 18.06.17 Scripting system errors
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/18%2C06%2C17.png)
+
+18.06.17 - 29.06.17 PCR protocol and error simulation
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/29.06.17.png)
+
+29.06.17 - 05.07.17 Scripting_test 
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/05%2C07%2C17.png)
+
+05.07.17 - 11.07.17 Scripting_PCR_silmulation
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/11%2C07%2C17.png)
+
+12.07.17 Video PCR test errors
+- https://www.youtube.com/watch?v=VlS1HZbsfxo&feature=youtu.be
+
+11.07.17 - 19.07.17 Modeling DNA amplification sistem
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/19%2C07%2C17.png)
+
+19.07.17 - 30.07.17 Modeling menu termociclado
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/Modeling_menu_termociclador.jpg)
+
+30.07.17 - 10.08.17 Simulation of PCR process
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/10.08.17.png)
+
+10.08.17 - 17.08.17 The process of setting the thermal cycler.
+- https://youtu.be/EQwnfkgH2XA
+
+17.08.17 - 22.08.17 Creation of a scene with the choice of protocol for conducting PCR.
+![Image alt](https://github.com/Nikolay-Odessa/ONU_Team_25.01.17/blob/master/PCR_Simulation/Resource_photo/22.08.17.jpg)
+
+22.08.17 - 03.09.17 Test and Trening systems in Termoycle simulation.
+ - https://youtu.be/rKhJR8Q0S_o
